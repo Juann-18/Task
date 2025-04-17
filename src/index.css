@@ -1,1 +1,5 @@
 @import "tailwindcss";
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+body{
+    background-color: rgb(33 37 41);
+}
